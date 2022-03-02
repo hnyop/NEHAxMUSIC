@@ -13,7 +13,7 @@
 
 ### Deploy To Heroku
 
-[![Deploy+On+Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AdityaCheats/AdityaPlayer)
+[![Deploy+On+Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SUSHILxPLAYER/NEHAxMUSIC)
 
 
 
@@ -26,4 +26,4 @@
 #### Copy Pasters You Can Copy This But Must Give Credits ...
 
 ### Owner Of This Repository
-[![NehA Halder](https://te.legra.ph/file/207e98f8900efae81d4e6.jpg)](https://t.me/Sushil8xop)
+[![NehA Halder](https://te.legra.ph/file/85954f386aa7195ef3dc4.jpg)](https://t.me/Sushil8xop)
